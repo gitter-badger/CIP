@@ -1,4 +1,4 @@
-# EIPs [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereum/EIPs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+# EIPs [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereum/EIPs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Join the chat at https://gitter.im/CIPdiscus/community](https://badges.gitter.im/CIPdiscus/community.svg)](https://gitter.im/CIPdiscus/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Ethereum Improvement Proposals (EIPs) describe standards for the Ethereum platform, including core protocol specifications, client APIs, and contract standards.
 
 A browsable version of all current and draft EIPs can be found on [the official EIP site](http://eips.ethereum.org/).
